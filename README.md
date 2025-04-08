@@ -4,7 +4,6 @@ A lightweight AI-powered image analyzer that describes uploaded photos using Met
 
 ## ✨ Features
 - Upload images (.png, .jpg, .jpeg)
-- Ask intelligent questions about the image
 - Returns detailed visual descriptions using LLaMA 4
 - Modern dark UI with “Processing…” feedback
 - Clean, conversational UX
