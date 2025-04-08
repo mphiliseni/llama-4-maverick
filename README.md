@@ -10,7 +10,7 @@ A lightweight AI-powered image analyzer that describes uploaded photos using Met
 - Clean, conversational UX
 
 ## 🧰 Tech Stack
-- ASP.NET Core Razor Pages (.NET 8)
+- ASP.NET Core Razor Pages (.NET 9)
 - C#
 - LLaMA 4 Maverick 17B via NVIDIA NGC API
 - HTML/CSS (Dark Theme Inspired)
