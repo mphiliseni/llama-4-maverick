@@ -1,0 +1,136 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
+  color: var(--bs-secondary-color);
+  text-align: end;
+}
+
+.form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
+  text-align: start;
+}
+body {
+  background-color: #121212;
+  color: #fff;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.app-container {
+  max-width: 700px;
+  margin: 50px auto;
+  text-align: center;
+}
+
+.title {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 0.2rem;
+}
+
+.subtitle {
+  color: #aaa;
+  font-size: 1rem;
+  margin-bottom: 2rem;
+}
+
+.suggestions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 2rem;
+}
+
+.suggest-btn {
+  background: #1f1f1f;
+  border: 1px solid #333;
+  color: #fff;
+  padding: 12px 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.suggest-btn:hover {
+  background: #333;
+}
+
+.chat-form {
+  margin-bottom: 2rem;
+}
+
+.file-upload {
+  display: block;
+  margin: 1rem auto;
+}
+
+.send-btn {
+  background: #0078D7;
+  color: white;
+  padding: 10px 18px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.chat-response, .chat-bubble.processing {
+  background: #1f1f1f;
+  padding: 15px;
+  margin: 1rem auto;
+  border-radius: 10px;
+  max-width: 90%;
+}
+
+.chat-input {
+  display: flex;
+  align-items: center;
+  background: #1e1e1e;
+  border-radius: 20px;
+  padding: 10px 20px;
+  max-width: 600px;
+  margin: 0 auto;
+  gap: 10px;
+}
+
+.chat-input input[type="text"] {
+  background: transparent;
+  border: none;
+  color: white;
+  width: 100%;
+  outline: none;
+  font-size: 16px;
+}
+
+.chat-actions button {
+  background: transparent;
+  border: none;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.chat-actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}

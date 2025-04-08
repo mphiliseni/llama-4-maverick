@@ -1,0 +1,43 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Image Analyzer";
+}
+
+<div class="app-container">
+    <h1 class="title">Image Analyzer</h1>
+    <p class="subtitle">Describes uploaded images with accuracy and detail.</p>
+
+    <div class="suggestions">
+        <button class="suggest-btn">Describe this photo for me.</button>
+        <button class="suggest-btn">What's in this picture?</button>
+        <button class="suggest-btn">Can you tell me what this image shows?</button>
+        <button class="suggest-btn">Explain the details of this photo.</button>
+    </div>
+
+    <form method="post" enctype="multipart/form-data" class="chat-form">
+        @if (Model.IsProcessing)
+        {
+            <div class="chat-bubble processing">Processing... Please wait</div>
+        }
+
+        <div class="input-actions">
+            <input type="file" name="ImageFile" accept=".png,.jpg,.jpeg" class="file-upload" />
+            <button type="submit" class="btn btn-primary">Analyze image</button>
+        </div>
+        
+
+        @if (!string.IsNullOrEmpty(Model.ResponseText))
+        {
+            <div class="chat-response">@Model.ResponseText</div>
+        }
+    </form>
+    @* 
+    <div class="chat-input">
+        <input type="text" placeholder="Ask anything" />
+        <div class="chat-actions">
+            <button class="mic-btn"><i class="fas fa-microphone"></i></button>
+            <button class="wave-btn"><i class="fas fa-wave-square"></i></button>
+        </div>
+    </div> *@
+</div>
