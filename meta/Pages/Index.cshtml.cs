@@ -11,7 +11,7 @@ public class IndexModel : PageModel
 {
     private readonly IHttpClientFactory _httpClientFactory;
     private const string InvokeUrl = "https://integrate.api.nvidia.com/v1/chat/completions";
-    private const string ApiKey = "YOUR_API_KEY"; // Replace with your actual API key
+    private const string ApiKey = "YOU_API_KEY"; // Replace with your actual API key
 
     public IndexModel(IHttpClientFactory httpClientFactory)
     {
