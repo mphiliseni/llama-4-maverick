@@ -19,8 +19,9 @@ app.UseHttpsRedirection();
 
 app.UseRouting();
 
-app.UseAuthorization();
 
+app.UseAuthorization();
+app.UseDeveloperExceptionPage(); 
 app.MapStaticAssets();
 app.MapRazorPages()
    .WithStaticAssets();

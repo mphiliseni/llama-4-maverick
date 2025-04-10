@@ -1,8 +1,30 @@
 ﻿@page
 @model PrivacyModel
 @{
-    ViewData["Title"] = "Privacy Policy";
+    ViewData["Title"] = "Results";
 }
-<h1>@ViewData["Title"]</h1>
 
-<p>Use this page to detail your site's privacy policy.</p>
+<h2 class="title">Image Analysis Results</h2>
+
+@if (TempData["ImageBase64"] != null && TempData["ResponseText"] != null)
+{
+    <div class="result-grid">
+        <div class="result-image">
+            <img src="data:image/png;base64,@TempData["ImageBase64"]" alt="Uploaded Image" />
+        </div>
+        <div class="result-text">
+            <h4>LLaMA 4 Analysis:</h4>
+            <p>@TempData["ResponseText"]</p>
+        </div>
+    </div>
+
+    <div class="action-buttons" style="margin-top: 30px;">
+        <a class="btn btn-primary" asp-page="/Index">Upload Another Picture</a>
+        <a class="btn btn-secondary" asp-page="/Index" style="margin-left: 10px;">Back to Home</a>
+    </div>
+}
+else
+{
+    <p>No result available. Please upload an image from the homepage.</p>
+    <a class="btn btn-primary" asp-page="/Index">Go to Upload</a>
+}
