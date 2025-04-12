@@ -13,8 +13,8 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/wwwroot/js/site.js",
-      "PackagePath": "staticwebassets/js/site.js"
+      "Id": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/wwwroot/js/app.js",
+      "PackagePath": "staticwebassets/js/app.js"
     },
     {
       "Id": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/wwwroot/lib/bootstrap/LICENSE",

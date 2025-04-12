@@ -140,3 +140,27 @@ body {
   font-size: 26px;
   color: #00ffcc;
 }
+.drop-zone {
+  border: 2px dashed #4fc3f7;
+  border-radius: 12px;
+  padding: 30px;
+  text-align: center;
+  background-color: #1e1e1e;
+  color: #ccc;
+  cursor: pointer;
+  margin-bottom: 1rem;
+  transition: background-color 0.3s;
+}
+
+.drop-zone.dragover {
+  background-color: #2a2a2a;
+}
+
+.drop-zone input[type="file"] {
+  display: none;
+}
+.drop-zone.uploaded {
+  border-color: #66bb6a;
+  background-color: #1f2f1f;
+}
+

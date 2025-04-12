@@ -19,7 +19,6 @@
 /Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/scopedcss/bundle/meta.styles.css
 /Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/scopedcss/projectbundle/meta.bundle.scp.css
 /Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/ptnfhhqles-61n19gt1b8.gz
-/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/c9nf5xdkeb-xtxxf3hu2r.gz
 /Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/3hlarirdsx-bqjiyaj88i.gz
 /Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/mseb1rduvy-c2jlpeoesf.gz
 /Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/d9q23bcrk5-erw9l3u2r3.gz
@@ -433,4 +432,5 @@
 /Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/meta.csproj.AssemblyReference.cache
 /Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/meta.MvcApplicationPartsAssemblyInfo.cs
 /Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/meta.csproj.Up2Date
-/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/amky7niddc-1vrl8utr6j.gz
+/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/amky7niddc-20hwpezojn.gz
+/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/jvytwseikw-d7epyipe6q.gz

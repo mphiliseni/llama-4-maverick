@@ -4,11 +4,8 @@
     ViewData["Title"] = "Image Analyzer";
 }
 
-
-<div class="app-container">
+    <div class="app-container">
     <h1 class="title" style="font-size: 2rem;">Image Analyzer</h1>
-    <p class="subtitle">Describes uploaded images with accuracy and detail.</p>
-
     <div class="suggestions">
         <button class="suggest-btn">Describe this photo for me.</button>
         <button class="suggest-btn">What's in this picture?</button>
@@ -16,25 +13,32 @@
         <button class="suggest-btn">Explain the details of this photo.</button>
     </div>
 
-    <form method="post" enctype="multipart/form-data" class="chat-form">
+    <form method="post" enctype="multipart/form-data" class="chat-form" id="uploadForm">
         @if (Model.IsProcessing)
         {
             <div class="chat-bubble processing">Processing... Please wait</div>
         }
 
+        <!-- Drag-and-Drop Zone -->
+        <div id="drop-zone" class="drop-zone">
+            <p id="drop-message">Drag and drop an image here, or click to select a file</p>
+            <p id="file-name-display" style="font-weight: bold; color: #4fc3f7;"></p>
+            <input type="file" name="ImageFile" id="fileInput" accept=".png,.jpg,.jpeg" class="file-upload" />
+        </div>
+
+
         <div class="input-actions">
-            <input type="file" name="ImageFile" accept=".png,.jpg,.jpeg" class="file-upload" />
             <button type="submit" class="btn btn-primary">Analyze image</button>
         </div>
-        
 
         @if (!string.IsNullOrEmpty(Model.ResponseText))
         {
             <div class="chat-response">@Model.ResponseText</div>
         }
-    
     </form>
-    
+</div>
+
+
     @* 
     <div class="chat-input">
         <input type="text" placeholder="Ask anything" />

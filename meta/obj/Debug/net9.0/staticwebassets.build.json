@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OZ42jANOxVN7e583E0eSxknCaJY05Puke2WG+71JAhE=",
+  "Hash": "Goats3YiZbZxGcqbJhqDQS4hSK3wU2eKJrSotaeGf3g=",
   "Source": "meta",
   "BasePath": "_content/meta",
   "Mode": "Default",
@@ -416,12 +416,12 @@
       "OriginalItemSpec": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/scopedcss/bundle/meta.styles.css"
     },
     {
-      "Identity": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/amky7niddc-1vrl8utr6j.gz",
+      "Identity": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/amky7niddc-20hwpezojn.gz",
       "SourceId": "meta",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/meta",
-      "RelativePath": "css/site#[.{fingerprint=1vrl8utr6j}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=20hwpezojn}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -430,8 +430,8 @@
       "RelatedAsset": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/wwwroot/css/site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "an8477miom",
-      "Integrity": "OjhzvVnlqQHbVTcevrQER4LAg5k9Jk5tQ7YkMmiFQeQ=",
+      "Fingerprint": "ny0ciamsb9",
+      "Integrity": "36m5QXpnh4MS0N+3CEkLEtmjp6+rm2ehp2PZ8rIjHJ8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/wwwroot/css/site.css"
@@ -561,27 +561,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
-    },
-    {
-      "Identity": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/c9nf5xdkeb-xtxxf3hu2r.gz",
-      "SourceId": "meta",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/",
-      "BasePath": "_content/meta",
-      "RelativePath": "js/site#[.{fingerprint=xtxxf3hu2r}]?.js.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/wwwroot/js/site.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "pmnrhqz0gl",
-      "Integrity": "YTkfXSHFEnZ6310TKacrOsSM7+9iBIEpAwW6DhmB2Rg=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/wwwroot/js/site.js"
     },
     {
       "Identity": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/cy06h10x7u-83jwlth58m.gz",
@@ -834,6 +813,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Identity": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/jvytwseikw-d7epyipe6q.gz",
+      "SourceId": "meta",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/meta",
+      "RelativePath": "js/app#[.{fingerprint=d7epyipe6q}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/wwwroot/js/app.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "l0dbygrd1k",
+      "Integrity": "paiq/pjmYRgST09Uieb9/dn9IVMyscPJVJyyO5hw+YA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/wwwroot/js/app.js"
     },
     {
       "Identity": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/kdji1yxt8v-h1s4sie4z3.gz",
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "1vrl8utr6j",
-      "Integrity": "TVAzImZa+W5OAMq4ba5+b09za2wbPxYL2C9eP+gTrKw=",
+      "Fingerprint": "20hwpezojn",
+      "Integrity": "Ev/g6r/p7l8FZuFK7ErXKSSU3JFc3bjd+2KYdbZk+UQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/site.css"
@@ -1445,12 +1445,12 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/wwwroot/js/site.js",
+      "Identity": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/wwwroot/js/app.js",
       "SourceId": "meta",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/wwwroot/",
       "BasePath": "_content/meta",
-      "RelativePath": "js/site#[.{fingerprint}]?.js",
+      "RelativePath": "js/app#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1459,11 +1459,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "xtxxf3hu2r",
-      "Integrity": "hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=",
+      "Fingerprint": "d7epyipe6q",
+      "Integrity": "1/FIF6FfZzCV2YkDOdDuwIeqesTCLfqPELcuswFNJuI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/js/site.js"
+      "OriginalItemSpec": "wwwroot/js/app.js"
     },
     {
       "Identity": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
@@ -2728,13 +2728,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.1vrl8utr6j.css",
-      "AssetFile": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/amky7niddc-1vrl8utr6j.gz",
+      "Route": "css/site.20hwpezojn.css",
+      "AssetFile": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/amky7niddc-20hwpezojn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001180637544"
+          "Quality": "0.001041666667"
         }
       ],
       "ResponseHeaders": [
@@ -2744,15 +2744,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "846"
+          "Value": "959"
         },
         {
           "Name": "ETag",
-          "Value": "\"OjhzvVnlqQHbVTcevrQER4LAg5k9Jk5tQ7YkMmiFQeQ=\""
+          "Value": "\"36m5QXpnh4MS0N+3CEkLEtmjp6+rm2ehp2PZ8rIjHJ8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 10:09:13 GMT"
+          "Value": "Sat, 12 Apr 2025 10:48:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2772,13 +2772,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"TVAzImZa+W5OAMq4ba5+b09za2wbPxYL2C9eP+gTrKw=\""
+          "Value": "W/\"Ev/g6r/p7l8FZuFK7ErXKSSU3JFc3bjd+2KYdbZk+UQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1vrl8utr6j"
+          "Value": "20hwpezojn"
         },
         {
           "Name": "label",
@@ -2786,12 +2786,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-TVAzImZa+W5OAMq4ba5+b09za2wbPxYL2C9eP+gTrKw="
+          "Value": "sha256-Ev/g6r/p7l8FZuFK7ErXKSSU3JFc3bjd+2KYdbZk+UQ="
         }
       ]
     },
     {
-      "Route": "css/site.1vrl8utr6j.css",
+      "Route": "css/site.20hwpezojn.css",
       "AssetFile": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/wwwroot/css/site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2801,7 +2801,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2426"
+          "Value": "2865"
         },
         {
           "Name": "Content-Type",
@@ -2809,11 +2809,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"TVAzImZa+W5OAMq4ba5+b09za2wbPxYL2C9eP+gTrKw=\""
+          "Value": "\"Ev/g6r/p7l8FZuFK7ErXKSSU3JFc3bjd+2KYdbZk+UQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 10:09:13 GMT"
+          "Value": "Sat, 12 Apr 2025 10:48:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2823,7 +2823,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1vrl8utr6j"
+          "Value": "20hwpezojn"
         },
         {
           "Name": "label",
@@ -2831,13 +2831,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-TVAzImZa+W5OAMq4ba5+b09za2wbPxYL2C9eP+gTrKw="
+          "Value": "sha256-Ev/g6r/p7l8FZuFK7ErXKSSU3JFc3bjd+2KYdbZk+UQ="
         }
       ]
     },
     {
-      "Route": "css/site.1vrl8utr6j.css.gz",
-      "AssetFile": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/amky7niddc-1vrl8utr6j.gz",
+      "Route": "css/site.20hwpezojn.css.gz",
+      "AssetFile": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/amky7niddc-20hwpezojn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2846,7 +2846,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "846"
+          "Value": "959"
         },
         {
           "Name": "Content-Type",
@@ -2854,11 +2854,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"OjhzvVnlqQHbVTcevrQER4LAg5k9Jk5tQ7YkMmiFQeQ=\""
+          "Value": "\"36m5QXpnh4MS0N+3CEkLEtmjp6+rm2ehp2PZ8rIjHJ8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 10:09:13 GMT"
+          "Value": "Sat, 12 Apr 2025 10:48:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2876,7 +2876,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1vrl8utr6j"
+          "Value": "20hwpezojn"
         },
         {
           "Name": "label",
@@ -2884,18 +2884,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-OjhzvVnlqQHbVTcevrQER4LAg5k9Jk5tQ7YkMmiFQeQ="
+          "Value": "sha256-36m5QXpnh4MS0N+3CEkLEtmjp6+rm2ehp2PZ8rIjHJ8="
         }
       ]
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/amky7niddc-1vrl8utr6j.gz",
+      "AssetFile": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/amky7niddc-20hwpezojn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001180637544"
+          "Quality": "0.001041666667"
         }
       ],
       "ResponseHeaders": [
@@ -2905,15 +2905,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "846"
+          "Value": "959"
         },
         {
           "Name": "ETag",
-          "Value": "\"OjhzvVnlqQHbVTcevrQER4LAg5k9Jk5tQ7YkMmiFQeQ=\""
+          "Value": "\"36m5QXpnh4MS0N+3CEkLEtmjp6+rm2ehp2PZ8rIjHJ8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 10:09:13 GMT"
+          "Value": "Sat, 12 Apr 2025 10:48:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2933,13 +2933,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"TVAzImZa+W5OAMq4ba5+b09za2wbPxYL2C9eP+gTrKw=\""
+          "Value": "W/\"Ev/g6r/p7l8FZuFK7ErXKSSU3JFc3bjd+2KYdbZk+UQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-TVAzImZa+W5OAMq4ba5+b09za2wbPxYL2C9eP+gTrKw="
+          "Value": "sha256-Ev/g6r/p7l8FZuFK7ErXKSSU3JFc3bjd+2KYdbZk+UQ="
         }
       ]
     },
@@ -2954,7 +2954,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2426"
+          "Value": "2865"
         },
         {
           "Name": "Content-Type",
@@ -2962,11 +2962,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"TVAzImZa+W5OAMq4ba5+b09za2wbPxYL2C9eP+gTrKw=\""
+          "Value": "\"Ev/g6r/p7l8FZuFK7ErXKSSU3JFc3bjd+2KYdbZk+UQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 10:09:13 GMT"
+          "Value": "Sat, 12 Apr 2025 10:48:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2976,13 +2976,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-TVAzImZa+W5OAMq4ba5+b09za2wbPxYL2C9eP+gTrKw="
+          "Value": "sha256-Ev/g6r/p7l8FZuFK7ErXKSSU3JFc3bjd+2KYdbZk+UQ="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/amky7niddc-1vrl8utr6j.gz",
+      "AssetFile": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/amky7niddc-20hwpezojn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2991,7 +2991,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "846"
+          "Value": "959"
         },
         {
           "Name": "Content-Type",
@@ -2999,11 +2999,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"OjhzvVnlqQHbVTcevrQER4LAg5k9Jk5tQ7YkMmiFQeQ=\""
+          "Value": "\"36m5QXpnh4MS0N+3CEkLEtmjp6+rm2ehp2PZ8rIjHJ8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 10:09:13 GMT"
+          "Value": "Sat, 12 Apr 2025 10:48:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3021,7 +3021,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-OjhzvVnlqQHbVTcevrQER4LAg5k9Jk5tQ7YkMmiFQeQ="
+          "Value": "sha256-36m5QXpnh4MS0N+3CEkLEtmjp6+rm2ehp2PZ8rIjHJ8="
         }
       ]
     },
@@ -3324,13 +3324,13 @@
       ]
     },
     {
-      "Route": "js/site.js",
-      "AssetFile": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/c9nf5xdkeb-xtxxf3hu2r.gz",
+      "Route": "js/app.d7epyipe6q.js",
+      "AssetFile": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/jvytwseikw-d7epyipe6q.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.005263157895"
+          "Quality": "0.001801801802"
         }
       ],
       "ResponseHeaders": [
@@ -3340,19 +3340,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "189"
+          "Value": "554"
         },
         {
           "Name": "ETag",
-          "Value": "\"YTkfXSHFEnZ6310TKacrOsSM7+9iBIEpAwW6DhmB2Rg=\""
+          "Value": "\"paiq/pjmYRgST09Uieb9/dn9IVMyscPJVJyyO5hw+YA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 16:52:13 GMT"
+          "Value": "Sat, 12 Apr 2025 11:00:57 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -3368,19 +3368,27 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "W/\"1/FIF6FfZzCV2YkDOdDuwIeqesTCLfqPELcuswFNJuI=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "d7epyipe6q"
+        },
+        {
+          "Name": "label",
+          "Value": "js/app.js"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-1/FIF6FfZzCV2YkDOdDuwIeqesTCLfqPELcuswFNJuI="
         }
       ]
     },
     {
-      "Route": "js/site.js",
-      "AssetFile": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/wwwroot/js/site.js",
+      "Route": "js/app.d7epyipe6q.js",
+      "AssetFile": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/wwwroot/js/app.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3389,7 +3397,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "231"
+          "Value": "1627"
         },
         {
           "Name": "Content-Type",
@@ -3397,27 +3405,35 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "\"1/FIF6FfZzCV2YkDOdDuwIeqesTCLfqPELcuswFNJuI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 16:52:13 GMT"
+          "Value": "Sat, 12 Apr 2025 11:00:57 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "d7epyipe6q"
+        },
+        {
+          "Name": "label",
+          "Value": "js/app.js"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-1/FIF6FfZzCV2YkDOdDuwIeqesTCLfqPELcuswFNJuI="
         }
       ]
     },
     {
-      "Route": "js/site.js.gz",
-      "AssetFile": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/c9nf5xdkeb-xtxxf3hu2r.gz",
+      "Route": "js/app.d7epyipe6q.js.gz",
+      "AssetFile": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/jvytwseikw-d7epyipe6q.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3426,7 +3442,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "189"
+          "Value": "554"
         },
         {
           "Name": "Content-Type",
@@ -3434,15 +3450,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YTkfXSHFEnZ6310TKacrOsSM7+9iBIEpAwW6DhmB2Rg=\""
+          "Value": "\"paiq/pjmYRgST09Uieb9/dn9IVMyscPJVJyyO5hw+YA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 16:52:13 GMT"
+          "Value": "Sat, 12 Apr 2025 11:00:57 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -3455,19 +3471,27 @@
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "d7epyipe6q"
+        },
+        {
+          "Name": "label",
+          "Value": "js/app.js.gz"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-YTkfXSHFEnZ6310TKacrOsSM7+9iBIEpAwW6DhmB2Rg="
+          "Value": "sha256-paiq/pjmYRgST09Uieb9/dn9IVMyscPJVJyyO5hw+YA="
         }
       ]
     },
     {
-      "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/c9nf5xdkeb-xtxxf3hu2r.gz",
+      "Route": "js/app.js",
+      "AssetFile": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/jvytwseikw-d7epyipe6q.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.005263157895"
+          "Quality": "0.001801801802"
         }
       ],
       "ResponseHeaders": [
@@ -3477,19 +3501,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "189"
+          "Value": "554"
         },
         {
           "Name": "ETag",
-          "Value": "\"YTkfXSHFEnZ6310TKacrOsSM7+9iBIEpAwW6DhmB2Rg=\""
+          "Value": "\"paiq/pjmYRgST09Uieb9/dn9IVMyscPJVJyyO5hw+YA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 16:52:13 GMT"
+          "Value": "Sat, 12 Apr 2025 11:00:57 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -3505,27 +3529,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "W/\"1/FIF6FfZzCV2YkDOdDuwIeqesTCLfqPELcuswFNJuI=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "xtxxf3hu2r"
-        },
-        {
-          "Name": "label",
-          "Value": "js/site.js"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-1/FIF6FfZzCV2YkDOdDuwIeqesTCLfqPELcuswFNJuI="
         }
       ]
     },
     {
-      "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/wwwroot/js/site.js",
+      "Route": "js/app.js",
+      "AssetFile": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/wwwroot/js/app.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3534,7 +3550,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "231"
+          "Value": "1627"
         },
         {
           "Name": "Content-Type",
@@ -3542,35 +3558,27 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "\"1/FIF6FfZzCV2YkDOdDuwIeqesTCLfqPELcuswFNJuI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 16:52:13 GMT"
+          "Value": "Sat, 12 Apr 2025 11:00:57 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "xtxxf3hu2r"
-        },
-        {
-          "Name": "label",
-          "Value": "js/site.js"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-1/FIF6FfZzCV2YkDOdDuwIeqesTCLfqPELcuswFNJuI="
         }
       ]
     },
     {
-      "Route": "js/site.xtxxf3hu2r.js.gz",
-      "AssetFile": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/c9nf5xdkeb-xtxxf3hu2r.gz",
+      "Route": "js/app.js.gz",
+      "AssetFile": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/jvytwseikw-d7epyipe6q.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3579,7 +3587,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "189"
+          "Value": "554"
         },
         {
           "Name": "Content-Type",
@@ -3587,15 +3595,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YTkfXSHFEnZ6310TKacrOsSM7+9iBIEpAwW6DhmB2Rg=\""
+          "Value": "\"paiq/pjmYRgST09Uieb9/dn9IVMyscPJVJyyO5hw+YA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 08 Apr 2025 16:52:13 GMT"
+          "Value": "Sat, 12 Apr 2025 11:00:57 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -3608,16 +3616,8 @@
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "xtxxf3hu2r"
-        },
-        {
-          "Name": "label",
-          "Value": "js/site.js.gz"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-YTkfXSHFEnZ6310TKacrOsSM7+9iBIEpAwW6DhmB2Rg="
+          "Value": "sha256-paiq/pjmYRgST09Uieb9/dn9IVMyscPJVJyyO5hw+YA="
         }
       ]
     },
