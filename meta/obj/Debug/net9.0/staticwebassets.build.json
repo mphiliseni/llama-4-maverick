@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Goats3YiZbZxGcqbJhqDQS4hSK3wU2eKJrSotaeGf3g=",
+  "Hash": "ExAGi6gduMM6WQl3V1ggmELXLkmj5woHnc4yWwFpBOc=",
   "Source": "meta",
   "BasePath": "_content/meta",
   "Mode": "Default",
@@ -815,12 +815,12 @@
       "OriginalItemSpec": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Identity": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/jvytwseikw-d7epyipe6q.gz",
+      "Identity": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/jvytwseikw-t8qkyhtoij.gz",
       "SourceId": "meta",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/meta",
-      "RelativePath": "js/app#[.{fingerprint=d7epyipe6q}]?.js.gz",
+      "RelativePath": "js/app#[.{fingerprint=t8qkyhtoij}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -829,8 +829,8 @@
       "RelatedAsset": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/wwwroot/js/app.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "l0dbygrd1k",
-      "Integrity": "paiq/pjmYRgST09Uieb9/dn9IVMyscPJVJyyO5hw+YA=",
+      "Fingerprint": "3y7t4rsojg",
+      "Integrity": "haKm/8K5lDqzfHZYhZyH//epgCZ8jQyGI6kARQ0E5VU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/wwwroot/js/app.js"
@@ -1459,8 +1459,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "d7epyipe6q",
-      "Integrity": "1/FIF6FfZzCV2YkDOdDuwIeqesTCLfqPELcuswFNJuI=",
+      "Fingerprint": "t8qkyhtoij",
+      "Integrity": "3dfDsMZPwx4i3Mlk3BGExpbgDF6UV6+Pm+70BTixyGM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/js/app.js"
@@ -3324,13 +3324,13 @@
       ]
     },
     {
-      "Route": "js/app.d7epyipe6q.js",
-      "AssetFile": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/jvytwseikw-d7epyipe6q.gz",
+      "Route": "js/app.js",
+      "AssetFile": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/jvytwseikw-t8qkyhtoij.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001801801802"
+          "Quality": "0.001824817518"
         }
       ],
       "ResponseHeaders": [
@@ -3340,19 +3340,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "554"
+          "Value": "547"
         },
         {
           "Name": "ETag",
-          "Value": "\"paiq/pjmYRgST09Uieb9/dn9IVMyscPJVJyyO5hw+YA=\""
+          "Value": "\"haKm/8K5lDqzfHZYhZyH//epgCZ8jQyGI6kARQ0E5VU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 11:00:57 GMT"
+          "Value": "Sat, 12 Apr 2025 16:42:42 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -3368,26 +3368,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"1/FIF6FfZzCV2YkDOdDuwIeqesTCLfqPELcuswFNJuI=\""
+          "Value": "W/\"3dfDsMZPwx4i3Mlk3BGExpbgDF6UV6+Pm+70BTixyGM=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "d7epyipe6q"
-        },
-        {
-          "Name": "label",
-          "Value": "js/app.js"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-1/FIF6FfZzCV2YkDOdDuwIeqesTCLfqPELcuswFNJuI="
+          "Value": "sha256-3dfDsMZPwx4i3Mlk3BGExpbgDF6UV6+Pm+70BTixyGM="
         }
       ]
     },
     {
-      "Route": "js/app.d7epyipe6q.js",
+      "Route": "js/app.js",
       "AssetFile": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/wwwroot/js/app.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3397,7 +3389,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1627"
+          "Value": "1597"
         },
         {
           "Name": "Content-Type",
@@ -3405,11 +3397,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1/FIF6FfZzCV2YkDOdDuwIeqesTCLfqPELcuswFNJuI=\""
+          "Value": "\"3dfDsMZPwx4i3Mlk3BGExpbgDF6UV6+Pm+70BTixyGM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 11:00:57 GMT"
+          "Value": "Sat, 12 Apr 2025 16:42:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3dfDsMZPwx4i3Mlk3BGExpbgDF6UV6+Pm+70BTixyGM="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.js.gz",
+      "AssetFile": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/jvytwseikw-t8qkyhtoij.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "547"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"haKm/8K5lDqzfHZYhZyH//epgCZ8jQyGI6kARQ0E5VU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 16:42:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-haKm/8K5lDqzfHZYhZyH//epgCZ8jQyGI6kARQ0E5VU="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.t8qkyhtoij.js",
+      "AssetFile": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/jvytwseikw-t8qkyhtoij.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001824817518"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "547"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"haKm/8K5lDqzfHZYhZyH//epgCZ8jQyGI6kARQ0E5VU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 16:42:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"3dfDsMZPwx4i3Mlk3BGExpbgDF6UV6+Pm+70BTixyGM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t8qkyhtoij"
+        },
+        {
+          "Name": "label",
+          "Value": "js/app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3dfDsMZPwx4i3Mlk3BGExpbgDF6UV6+Pm+70BTixyGM="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.t8qkyhtoij.js",
+      "AssetFile": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/wwwroot/js/app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1597"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3dfDsMZPwx4i3Mlk3BGExpbgDF6UV6+Pm+70BTixyGM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 16:42:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3419,7 +3556,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "d7epyipe6q"
+          "Value": "t8qkyhtoij"
         },
         {
           "Name": "label",
@@ -3427,13 +3564,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-1/FIF6FfZzCV2YkDOdDuwIeqesTCLfqPELcuswFNJuI="
+          "Value": "sha256-3dfDsMZPwx4i3Mlk3BGExpbgDF6UV6+Pm+70BTixyGM="
         }
       ]
     },
     {
-      "Route": "js/app.d7epyipe6q.js.gz",
-      "AssetFile": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/jvytwseikw-d7epyipe6q.gz",
+      "Route": "js/app.t8qkyhtoij.js.gz",
+      "AssetFile": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/jvytwseikw-t8qkyhtoij.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3442,7 +3579,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "554"
+          "Value": "547"
         },
         {
           "Name": "Content-Type",
@@ -3450,11 +3587,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"paiq/pjmYRgST09Uieb9/dn9IVMyscPJVJyyO5hw+YA=\""
+          "Value": "\"haKm/8K5lDqzfHZYhZyH//epgCZ8jQyGI6kARQ0E5VU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 11:00:57 GMT"
+          "Value": "Sat, 12 Apr 2025 16:42:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3472,7 +3609,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "d7epyipe6q"
+          "Value": "t8qkyhtoij"
         },
         {
           "Name": "label",
@@ -3480,144 +3617,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-paiq/pjmYRgST09Uieb9/dn9IVMyscPJVJyyO5hw+YA="
-        }
-      ]
-    },
-    {
-      "Route": "js/app.js",
-      "AssetFile": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/jvytwseikw-d7epyipe6q.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001801801802"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "554"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"paiq/pjmYRgST09Uieb9/dn9IVMyscPJVJyyO5hw+YA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 11:00:57 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"1/FIF6FfZzCV2YkDOdDuwIeqesTCLfqPELcuswFNJuI=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-1/FIF6FfZzCV2YkDOdDuwIeqesTCLfqPELcuswFNJuI="
-        }
-      ]
-    },
-    {
-      "Route": "js/app.js",
-      "AssetFile": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/wwwroot/js/app.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1627"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"1/FIF6FfZzCV2YkDOdDuwIeqesTCLfqPELcuswFNJuI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 11:00:57 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-1/FIF6FfZzCV2YkDOdDuwIeqesTCLfqPELcuswFNJuI="
-        }
-      ]
-    },
-    {
-      "Route": "js/app.js.gz",
-      "AssetFile": "/Users/mphilisenimhlongo/Projects/llama-4-maverick/meta/obj/Debug/net9.0/compressed/jvytwseikw-d7epyipe6q.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "554"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"paiq/pjmYRgST09Uieb9/dn9IVMyscPJVJyyO5hw+YA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 11:00:57 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-paiq/pjmYRgST09Uieb9/dn9IVMyscPJVJyyO5hw+YA="
+          "Value": "sha256-haKm/8K5lDqzfHZYhZyH//epgCZ8jQyGI6kARQ0E5VU="
         }
       ]
     },

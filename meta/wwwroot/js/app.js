@@ -1,6 +1,5 @@
 ﻿
 
-// drag and drop file upload
 // This script handles drag-and-drop file uploads and displays the file name and thumbnail preview.
 
 
