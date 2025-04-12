@@ -31,9 +31,15 @@ Demo
 ![Image 2025-04-08 at 22 39](https://github.com/user-attachments/assets/42d0c5a3-d783-46e8-84e4-0face04cd3d0)
 
 
+Drag-and-Drop
+
+![Image 2025-04-12 at 14 31](https://github.com/user-attachments/assets/34ab5eaf-673c-4850-9a1c-46d87c3f002a)
+
+
 Llama Image analysis results 
 
 ![Image 2025-04-10 at 23 07](https://github.com/user-attachments/assets/4078e550-69de-4a67-921a-4d655d794642)
+
 
 
 
